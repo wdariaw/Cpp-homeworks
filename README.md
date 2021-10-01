@@ -1,6 +1,8 @@
 # Some C++ homeworks (1 and 2 semesters)
 
-`BigInteger/` - *BigInteger* class implementation and solution of problem [135](https://informatics.msk.ru/mod/statements/view.php?chapterid=135#1)
+`BigInteger/` - *BigInteger* class implementation and solution of problem [135](https://informatics.msk.ru/mod/statements/view.php?chapterid=135#1).
+
+`Matrix/` - *Matrix* and *Rational* classes implementations.
 
 `Segment tree/` - *Segment tree* implementation and solutions of problems [752](https://informatics.msk.ru/mod/statements/view3.php?chapterid=752#1), [3317](https://informatics.msk.ru/mod/statements/view3.php?chapterid=3317#1).
 
