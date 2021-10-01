@@ -1,4 +1,4 @@
-?#include <cstring>
+#include <cstring>
 #include <math.h>
 #include <cstdio>
 #include <iostream>
